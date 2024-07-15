@@ -4,5 +4,5 @@
 /**
  * 
  */
-module myproject {
+module myprojwct2 {
 }
